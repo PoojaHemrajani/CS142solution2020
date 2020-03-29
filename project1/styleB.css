@@ -1,0 +1,76 @@
+body{
+	background-size:cover; 
+	border-right: 1px solid black; 
+	background-size: cover;
+}
+div{
+	width: 100px;
+	height: 150px;
+	text-decoration-color: black;
+	font-size: 40px;
+}
+div.div1{
+    background-color: yellow;
+    margin: 20px auto auto 20px;
+    float: left;
+}
+div.div2{
+	background-color: #DCDCDC;
+	margin: 20px auto auto 20px;
+	float: left;
+}
+div.div3{
+	background-color: #DCDCDC;
+	margin: 20px auto auto 20px;
+	float: left;
+}
+div.div4{
+	background-color: #DCDCDC;
+	margin: 20px auto auto 20px;
+	float: left;
+}
+div.div5{
+	background-color: #DCDCDC;
+	margin: 20px auto auto 20px;
+	float: left;
+}
+div.div6{
+	background-color: #DCDCDC;
+	margin-left: 90%;
+	margin-top: 20%;
+	position: relative;
+	float: left;
+}
+p{
+	margin-top: -80px;
+	margin-left: 20px;
+	font-size: 40px;
+	color: #B5651D;
+}
+.dot1{
+	width: 10px;height: 10px;border-radius: 50%;background-color: #C0C0C0; position: relative;
+}
+.dota{
+	width: 10px;height: 10px;border-radius: 50%;background-color: #C0C0C0; position: relative;top: 10px;
+}
+.dotb{
+    width: 10px;height: 10px;border-radius: 50%;background-color: #C0C0C0; position: relative;top: 20px;	
+}
+.dotc{
+    width: 10px;height: 10px;border-radius: 50%;background-color: #C0C0C0; position: relative;top: 30px;	
+}
+.dotd{
+    width: 10px;height: 10px;border-radius: 50%;background-color: #C0C0C0; position: relative;top: 40px;	
+}
+.dote{
+    width: 10px;height: 10px;border-radius: 50%;background-color: #C0C0C0; position: relative;top: 50px;	
+}
+.dotf{
+    width: 10px;height: 10px;border-radius: 50%;background-color: #C0C0C0; position: relative;top: 60px;	
+}
+.dotg{
+    width: 10px;height: 10px;border-radius: 50%;background-color: #C0C0C0; position: relative;top: 70px;	
+}
+.pall{
+	color: black;
+}
